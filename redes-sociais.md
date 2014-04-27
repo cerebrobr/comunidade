@@ -103,6 +103,7 @@
 - [JavaScript Brasil](http://javascriptbrasil.com/)
 - [Brazil JS](http://braziljs.org/)
 - [Jquery Brasil](https://www.facebook.com/groups/jquerybrasil/)
+- [Rio.JS](https://www.facebook.com/groups/riojs/)
 
 ### Joomla
 - Comunidade oficial (em inglês) : [http://community.joomla.org//](http://community.joomla.org//)
