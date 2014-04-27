@@ -79,7 +79,7 @@
 ### Git
 - [Grupo Facebook - GIT Brasil](https://www.facebook.com/groups/gitbrasil/)
 
-## Ghost
+### Ghost
 - [Fórum oficial](https://ghost.org/forum/)
 
 ### Grunt
@@ -112,7 +112,7 @@
 
 ## K
 
-## KnockoutJS
+### KnockoutJS
 - [Knockoutjs community](https://geekli.st/community/knockoutjs/)
 
 
@@ -125,7 +125,7 @@
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/meteor)
 - [Github](https://github.com/meteor/meteor)
 
-## MongoDB
+### MongoDB
 - [Grupo Facebook - MongoDB Brasil](https://www.facebook.com/groups/mongodbbrasil/)
 - [Meet Up - MongoDB São Paulo](http://www.meetup.com/SP-MongoDB/)
 - [Meet Up - MongoDB Rio Grande do Sul](http://www.meetup.com/Rio-Grande-do-Sul-MongoDB-User-Group/)
@@ -143,7 +143,7 @@
 
 ## O
 
-## OpenCart
+### OpenCart
 - [OpenCart Oficial](http://forum.opencart.com/)
 - [OpenCart Brasil](http://www.opencartbrasil.com.br/forum/)
 - [Grupo Facebook - OpenCart Brasil](http://www.facebook.com/groups/opencart.brasil.oficial/)
@@ -157,10 +157,10 @@
 - [PHP Maranhão](https://www.facebook.com/groups/466260410082261/)
 - [PHP São Paulo](https://www.facebook.com/groups/sao.paulo.elephants/)
 
-## Plone
+### Plone
 - [Plone Brasil](http://plone.org.br/)
 
-## PostgreSQL
+### PostgreSQL
 - [softwarelivre.org/postgresql](http://softwarelivre.org/postgresql)
 
 ### Python
@@ -177,10 +177,10 @@
 ### Rails
 - [Grupo Facebook - Ruby on Rails Brasil](https://www.facebook.com/groups/rubyonrailsbrasil/)
 
-## ReactJS
+### ReactJS
 - [Google Groups - React JS community](https://groups.google.com/forum/#!forum/reactjs/)
 
-## Redis
+### Redis
 [Redis Website](http://redis.io/community)
 
 ### Ruby
