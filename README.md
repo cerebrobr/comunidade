@@ -6,7 +6,7 @@ Um espaço para a comunidade brasileira, com diversos links interessantes para a
 
 - [Blogs](blogs.md)
 - [Cursos](cursos.md)
-- [Grupos](grupos.md)
+- [Redes Sociais](redes-sociais.md)
 - [Newsletters](newsletters.md)
 - [ScreenCasts](screencasts.md)
 
