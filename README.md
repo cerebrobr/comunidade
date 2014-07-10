@@ -8,6 +8,6 @@ Um espaço para a comunidade brasileira, com diversos links interessantes para a
 - [Cursos](cursos.md)
 - [Redes Sociais](redes-sociais.md)
 - [Newsletters](newsletters.md)
-- [ScreenCasts](screencasts.md)
+- [Podcasts/ScreenCasts](casts.md)
 
 > A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento. *(Platão)*
