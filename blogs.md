@@ -33,3 +33,4 @@
 - [②ality – JavaScript and more](http://www.2ality.com/)
 - [JavaScript, JavaScript...](https://javascriptweblog.wordpress.com/)
 - [BackboneFU](http://backbonefu.com/)
+- [brad frost web](http://bradfrostweb.com/blog/)
