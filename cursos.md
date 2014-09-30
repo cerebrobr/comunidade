@@ -6,4 +6,4 @@
 - [Code Squad](http://code-squad.com/)
 - [How to Code]()
 - [Superquadra](http://www.superquadra.co)
-
+- [UX Weekend](uxweekend.com.br)
