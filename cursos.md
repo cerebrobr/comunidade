@@ -7,3 +7,4 @@
 - [How to Code](http://howtocode.com.br/)
 - [Superquadra](http://www.superquadra.co)
 - [UX Weekend](http://www.uxweekend.com.br)
+- [UX Academy](http://www.uxacademy.com.br/)
