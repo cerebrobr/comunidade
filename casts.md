@@ -7,6 +7,9 @@
 - [Void Podcast](http://voidpodcast.com/)
 - [PodSemFio](http://www.garotasemfio.com.br/podcast/)
 - [DatabaseCast](http://imasters.com.br/perfil/databasecast/)
+- [GDG Cast](http://gdgcasts.github.io/)
+- [Hack 'n' Cast](http://hackncast.org)
+- [CodeTalks](http://codetalks.net/)
 
 ## Screencasts
 - [DevCast](http://devcastbrasil.com/)
