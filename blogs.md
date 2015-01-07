@@ -34,3 +34,4 @@
 - [JavaScript, JavaScript...](https://javascriptweblog.wordpress.com/)
 - [BackboneFU](http://backbonefu.com/)
 - [Brad Frost Web](http://bradfrostweb.com/blog/)
+- [Mark Otto](http://markdotto.com)
