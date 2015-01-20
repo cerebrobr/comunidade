@@ -10,6 +10,9 @@
 - [GDG Cast](http://gdgcasts.github.io/)
 - [Hack 'n' Cast](http://hackncast.org)
 - [CodeTalks](http://codetalks.net/)
+- [Tecnologia Aberta](http://tecnologiaaberta.com.br/category/opencast/)
+- [DioCast](http://www.diolinux.com.br/search/label/DioCast)
+- [Piratas da Internet](http://www.piratasdainternet.com.br/)
 
 ## Screencasts
 - [DevCast](http://devcastbrasil.com/)
