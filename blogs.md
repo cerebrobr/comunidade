@@ -35,3 +35,5 @@
 - [BackboneFU](http://backbonefu.com/)
 - [Brad Frost Web](http://bradfrostweb.com/blog/)
 - [Mark Otto](http://markdotto.com)
+- [Matheus Loureiro](http://www.matheusloureiro.com.br/)
+- [Fernando Daciuk](http://blog.da2k.com.br/)
