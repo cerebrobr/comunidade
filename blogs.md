@@ -1,40 +1,67 @@
 # Blogs
 
+* [Back-End](#back-end)
+* [Comunidade](#comunidade)
+* [Desenvolvimento em Geral](#desenvolvimento-em-geral)
+* [Front-End](#front-end)
+* [Descontinuados](#descontinuados)
+
+----
+## Back-End
+
+*Blogs que têm como tema principal o back-end*
+
+- [Escola WP](http://www.escolawp.com/)
+- [Matheus Loureiro](http://www.matheusloureiro.com.br/)
+- [Tudo para WordPress](http://www.tudoparawordpress.com.br/)
+- [Tuts+ Code](http://code.tutsplus.com/)
+- [WP Midia](http://wpmidia.com.br/)
+
+## Comunidade
+
+*Blogs que têm como tema principal a comunidade de desenvolvedores*
+
 - [Brazil JS](http://braziljs.org/)
+- [iMasters](http://imasters.com.br/)
+
+## Desenvolvimento em Geral
+
+*Blogs que abordam diversos temas de desenvolvimento*
+
+- [Devmedia](http://www.devmedia.com.br/)
+- [Infoq](http://www.infoq.com/br)
+- [Jcoglan](https://blog.jcoglan.com/)
+- [Smashing Magazine](http://www.smashingmagazine.com/)
+
+## Front-End
+
+*Blogs que têm como tema principal o front-end*
+
+- [2ality](http://www.2ality.com/)
+- [Addy Osmani](http://addyosmani.com/blog/)
+- [BackboneFU](http://backbonefu.com/)
+- [Brad Frost](http://bradfrostweb.com/blog/)
 - [Codrops](http://tympanus.net/codrops/)
 - [CSS Tricks](http://css-tricks.com/)
 - [CSS Wizardry](http://csswizardry.com/)
-- [Devmedia](http://www.devmedia.com.br/)
+- [ECMA-262](http://dmitrysoshnikov.com/)
+- [Fernando Daciuk](http://blog.da2k.com.br/)
 - [Front-End Brasil](http://www.frontendbrasil.com.br)
 - [HTML5 Rocks](http://www.html5rocks.com)
 - [HTML5 Hacks](http://www.html5hacks.com/)
 - [HTML5 Doctor](http://html5doctor.com/)
-- [iMasters](http://imasters.com.br/)
 - [JavaScript Brasil](http://javascriptbrasil.com/)
+- [Javascript is Sexy](http://javascriptissexy.com/)
+- [Javascript Weblog](http://javascriptweblog.wordpress.com/)
+- [Joezimjs](http://www.joezimjs.com/)
 - [Loop Infinito](http://loopinfinito.com.br/)
-- [Net TutsPlus](http://net.tutsplus.com)
-- [Smashing Magazine](http://www.smashingmagazine.com/)
-- [Tableless](http://tableless.com.br/)
-- [WebDesign TutsPlus](http://webdesign.tutsplus.com)
-- [Escola WP](http://www.escolawp.com/)
-- [WP Tuts+](http://wp.tutsplus.com/)
-- [Blog Tudo para WordPress](http://www.tudoparawordpress.com.br/)
-- [Blog WP Midia](http://wpmidia.com.br/)
-- [Infoq](http://www.infoq.com/br/javascript/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk)
-- [bbenvie](http://bbenvie.com/)
-- [blog.jcoglan](https://blog.jcoglan.com/)
-- [addyosmani](http://addyosmani.com/blog/)
-- [paulirish](http://www.paulirish.com/)
-- [javascriptweblog](http://javascriptweblog.wordpress.com/)
-- [joezimjs](http://www.joezimjs.com/)
-- [javascriptissexy](http://javascriptissexy.com/)
-- [ECMA-262](http://dmitrysoshnikov.com/)
-- [Perfection Kills](http://perfectionkills.com/)
-- [②ality – JavaScript and more](http://www.2ality.com/)
-- [JavaScript, JavaScript...](https://javascriptweblog.wordpress.com/)
-- [BackboneFU](http://backbonefu.com/)
-- [Brad Frost Web](http://bradfrostweb.com/blog/)
 - [Mark Otto](http://markdotto.com)
-- [Matheus Loureiro](http://www.matheusloureiro.com.br/)
-- [Fernando Daciuk](http://blog.da2k.com.br/)
+- [Paul Irish](http://www.paulirish.com/)
 - [Pedro Nauck](http://pedronauck.com/)
+- [Perfection Kills](http://perfectionkills.com/)
+- [Tableless](http://tableless.com.br/)
+- [Tuts+ Webdesign](http://webdesign.tutsplus.com)
+
+## Descontinuados
+
+- [bbenvie](http://bbenvie.com/)
