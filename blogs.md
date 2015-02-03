@@ -32,6 +32,7 @@
 - [Infoq](http://www.infoq.com/br)
 - [Jcoglan](https://blog.jcoglan.com/)
 - [Smashing Magazine](http://www.smashingmagazine.com/)
+- [PythonClub](http://pythonclub.com.br/) 
 
 ## Front-End
 
