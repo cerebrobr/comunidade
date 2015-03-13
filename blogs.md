@@ -30,6 +30,7 @@
 
 - [Devmedia](http://www.devmedia.com.br/)
 - [Infoq](http://www.infoq.com/br)
+- [Caelum](http://blog.caelum.com.br/)
 - [Jcoglan](https://blog.jcoglan.com/)
 - [Smashing Magazine](http://www.smashingmagazine.com/)
 - [PythonClub](http://pythonclub.com.br/)
