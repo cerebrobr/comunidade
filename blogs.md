@@ -99,6 +99,7 @@
 - [Tableless](http://tableless.com.br/)
 - [Tuts+ Webdesign](http://webdesign.tutsplus.com)
 - [William Bruno](http://wbruno.com.br/)
+- [Willian Justen](http://willianjusten.com.br/)
 - [Willian Oliveira](http://woliveiras.com.br/)
 - [Zeno Rocha](http://zenorocha.com/blog/)
 
