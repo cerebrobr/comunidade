@@ -97,6 +97,7 @@
 - [Scotch](https://scotch.io/)
 - [Stewan Pacheco](https://stpa.co/)
 - [Tableless](http://tableless.com.br/)
+- [Thulio Philipe](http://blog.thulioph.com/)
 - [Tuts+ Webdesign](http://webdesign.tutsplus.com)
 - [William Bruno](http://wbruno.com.br/)
 - [Willian Justen](http://willianjusten.com.br/)
