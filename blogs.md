@@ -12,6 +12,7 @@
 
 *Blogs que têm como tema principal o back-end*
 
+- [Alan Hoffmeister](https://alanhoff.com/)
 - [Carlos Becker](http://carlosbecker.com/)
 - [Cláudio Sanches](https://claudiosmweb.com/)
 - [Escola WP](http://www.escolawp.com/)
