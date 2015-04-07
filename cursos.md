@@ -8,3 +8,4 @@
 - [Superquadra](http://www.superquadra.co)
 - [UX Weekend](http://www.uxweekend.com.br)
 - [UX Academy](http://www.uxacademy.com.br)
+- [Code Academy](http://www.codecademy.com/pt/learn)
