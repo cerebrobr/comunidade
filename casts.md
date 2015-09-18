@@ -13,6 +13,9 @@
 - [Tecnologia Aberta](http://tecnologiaaberta.com.br/category/opencast/)
 - [DioCast](http://www.diolinux.com.br/search/label/DioCast)
 - [Piratas da Internet](http://www.piratasdainternet.com.br/)
+- [DevNaEstrada](http://devnaestrada.com.br/)
+- [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br/)
+- [NodeBR Cast](https://github.com/nodebr/podcast)
 
 ## Screencasts
 - [DevCast](http://devcastbrasil.com/)
