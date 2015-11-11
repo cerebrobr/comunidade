@@ -2,6 +2,7 @@
 
 ## Português
 
+* [A Semana: PHP](http://asemanaphp.com.br/)
 * [BrazilJS Weekly](http://braziljs.org/)
 * [Maquinário](http://maquinario.co/)
 * [Frevo on Rails](http://frevoonrails.com.br/)
