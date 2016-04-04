@@ -94,6 +94,7 @@
 - [Pedro Nauck](http://pedronauck.com/)
 - [Pinceladas da Web](http://www.pinceladasdaweb.com.br/blog/)
 - [Perfection Kills](http://perfectionkills.com/)
+- [Raio Frontendizador](https://jotateles.com.br/)
 - [Sérgio Lopes](http://sergiolopes.org/)
 - [Scotch](https://scotch.io/)
 - [Stewan Pacheco](https://stpa.co/)
