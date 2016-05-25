@@ -67,6 +67,7 @@
 - [Baltazar Parra](http://baltazarparra.github.io/)
 - [Brad Frost](http://bradfrostweb.com/blog/)
 - [Beto Muniz](http://betomuniz.com/blog/)
+- [Cleyson Leal](http://cleysonlb.github.io)
 - [Codrops](http://tympanus.net/codrops/)
 - [CSS Tricks](http://css-tricks.com/)
 - [CSS Wizardry](http://csswizardry.com/)
