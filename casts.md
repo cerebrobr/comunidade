@@ -15,5 +15,5 @@
 - [PodSemFio](http://www.garotasemfio.com.br/podcast/)
 - [Tecnologia Aberta](http://tecnologiaaberta.com.br/category/opencast/)
 - [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br/)
-- [Void Podcast](http://voidpodcast.com/)
+- [Void Podcast](https://itunes.apple.com/br/podcast/void-podcast/id443186480?l=en&mt=2)
 - [Zone of Front-Enders](http://zofe.com.br/)
