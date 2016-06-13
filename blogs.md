@@ -41,6 +41,7 @@
 - [Devmedia](http://www.devmedia.com.br/)
 - [Eduardo Matos](http://eduardomatos.me/)
 - [Elcio Ferreira (Fechatag)](http://elcio.com.br/)
+- [Fabrício Ronchi](http://blog.fabricioronchi.com/)
 - [Gabriel Gomes](http://gabrielgomes.co/)
 - [Guilherme Rodrigues (First do it)](http://firstdoit.com/)
 - [Infoq](http://www.infoq.com/br)
