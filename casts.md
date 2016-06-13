@@ -6,6 +6,7 @@
 - [DatabaseCast](http://imasters.com.br/perfil/databasecast/)
 - [DevNaEstrada](http://devnaestrada.com.br/)
 - [DioCast](http://www.diolinux.com.br/search/label/DioCast)
+- [Fiap Café](https://www.fiap.com.br/fiapx/podcast)
 - [Grok Podcast](http://www.grokpodcast.com/)
 - [GDG Cast](http://gdgcasts.github.io/)
 - [Hack 'n' Cast](http://hackncast.org)
