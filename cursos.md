@@ -8,3 +8,5 @@
 - [Superquadra](http://www.superquadra.co)
 - [UX Weekend](http://www.uxweekend.com.br)
 - [UX Academy](http://www.uxacademy.com.br)
+- [Code Academy](http://www.codecademy.com/pt/learn)
+- [JS Ninja - Fernando Daciuk](http://blog.da2k.com.br/curso-javascript-ninja/index.html)
