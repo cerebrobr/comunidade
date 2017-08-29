@@ -91,6 +91,7 @@
 - [jQuery Brasil](http://jquerybrasil.org/)
 - [Leo Balter](http://leobalter.github.io/)
 - [Loop Infinito](http://loopinfinito.com.br/)
+- [Marquinhus Gonçalves](http://marquinhusgoncalves.com/)
 - [Mark Otto](http://markdotto.com)
 - [Maujor](http://www.maujor.com/blog/)
 - [Paul Irish](http://www.paulirish.com/)
