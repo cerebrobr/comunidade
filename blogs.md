@@ -21,6 +21,7 @@
 - [Priscila Sato (MayogaX)](http://www.dev.mayogax.me/)
 - [Rafael Funchal](http://www.rafaelfunchal.com.br/)
 - [Substack](http://substack.net/)
+- [Thiago Belem](http://blog.thiagobelem.net/)
 - [Tudo para WordPress](http://tudoparawp.com.br/)
 - [Tuts+ Code](http://code.tutsplus.com/)
 - [WP Midia](http://wpmidia.com.br/)
