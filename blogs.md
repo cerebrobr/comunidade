@@ -54,6 +54,7 @@
 - [Quildreen Motta](http://robotlolita.me/)
 - [Smashing Magazine](http://www.smashingmagazine.com/)
 - [Suissa (Nomadev)](http://nomadev.com.br/)
+- [Thiago Belem](http://blog.thiagobelem.net/)
 - [Thiago Hillebrandt](http://tiagohillebrandt.eti.br/)
 - [Vitor Britto](http://www.vitorbritto.com.br/blog/)
 
