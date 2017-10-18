@@ -105,6 +105,7 @@
 - [Stewan Pacheco](https://stpa.co/)
 - [Tableless](http://tableless.com.br/)
 - [Tuts+ Webdesign](http://webdesign.tutsplus.com)
+- [Vue.js Brasil](http://www.vuejs-brasil.com.br/)
 - [WDSIGN Brasil](https://wdsign.com.br/)
 - [William Bruno](http://wbruno.com.br/)
 - [Willian Justen](http://willianjusten.com.br/)
