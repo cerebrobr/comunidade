@@ -6,5 +6,6 @@
 - [Code Squad](http://code-squad.com/)
 - [How to Code](http://howtocode.com.br/)
 - [Superquadra](http://www.superquadra.co)
+- [Udemy](http://udemy.com/)
 - [UX Weekend](http://www.uxweekend.com.br)
 - [UX Academy](http://www.uxacademy.com.br)
