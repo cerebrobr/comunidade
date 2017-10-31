@@ -104,6 +104,7 @@
 - [Scotch](https://scotch.io/)
 - [Stewan Pacheco](https://stpa.co/)
 - [Tableless](http://tableless.com.br/)
+- [Treinar Front-end](https://www.treinarfrontend.com/)
 - [Tuts+ Webdesign](http://webdesign.tutsplus.com)
 - [Vue.js Brasil](http://www.vuejs-brasil.com.br/)
 - [WDSIGN Brasil](https://wdsign.com.br/)
